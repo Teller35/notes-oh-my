@@ -5,6 +5,7 @@
   ## Description:
   #### *Here is a simple app to take notes, save them and delete as needed.*
   *[View Project on GitHub](https://github.com/teller35/notes-oh-my)*
+  *[View project on Heroku](https://still-depths-65459.herokuapp.com/)*
 
   ## Table of Contents:
   * [**Installation**](#installation)
@@ -21,6 +22,10 @@
 
   ## Usage
   #### *Type in a title, then a note, hit the save button.*
+![image](https://user-images.githubusercontent.com/79383305/119551376-d008b200-bd56-11eb-87d6-dd436720c7b2.png)
+![image](https://user-images.githubusercontent.com/79383305/119551429-e1ea5500-bd56-11eb-8748-4f59342aa093.png)
+![image](https://user-images.githubusercontent.com/79383305/119551550-fe868d00-bd56-11eb-9802-890ede4baa3e.png)
+![image](https://user-images.githubusercontent.com/79383305/119551590-08a88b80-bd57-11eb-9983-41f1de0877ff.png)
 
   ## Credits
   
