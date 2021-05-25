@@ -29,7 +29,7 @@
 
   ## License
   #### *This project is covered under the isc license!*
-  #### *[License Link](https://choosealicense.com/licenses/)*
+  #### *[License Link](https://choosealicense.com/licenses/isc)*
 
   ## Contribute
   #### *NONE*
