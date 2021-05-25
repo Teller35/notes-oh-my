@@ -1,6 +1,6 @@
 # Notes Oh My
 
-  [![License Badge](https://img.shields.io/badge/license--blue.svg)](#license)
+  [![License Badge](https://img.shields.io/badge/license-isc-blue.svg)](#license)
 
   ## Description:
   #### *Here is a simple app to take notes, save them and delete as needed.*
@@ -28,7 +28,7 @@
   
 
   ## License
-  #### *This project is covered under the  license!*
+  #### *This project is covered under the isc license!*
   #### *[License Link](https://choosealicense.com/licenses/)*
 
   ## Contribute
